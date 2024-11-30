@@ -3,6 +3,7 @@ import scipy.stats as stats
 import pandas as pd
 import math
 
+# Explanation:
 # H0 - mean speed of typing is <= 40 wpm
 # H1 - mean speed of typing is > 40 wpm
 
